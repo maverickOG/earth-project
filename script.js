@@ -20,7 +20,7 @@ $consumption.onclick =  () =>
     document.body.style.background = "url('https://kq-storage.s3.ap-south-1.amazonaws.com/Github/earth/food-wastage-bg%5B1%5D.png')"
     document.body.style.backgroundSize = "100% 100%"
     $consumption.style.backgroundColor = "#27AE60"
-    $limate.style.color="transparent"
+    $climate.style.color="transparent"
     $resources.style.backgroundColor = "transparent"
     $people.style.backgroundColor = "transparent"
     document.getElementById("save").innerHTML = "do your bit! shop only what you need,eat only what you need and always save the left overs."
