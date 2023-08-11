@@ -13,7 +13,7 @@ $climate.onclick =  () =>
     $people.style.backgroundColor = "transparent"
     document.getElementById("save").innerHTML = "do your bit! save trees, use renewable energy sources and prefer to travel green."
     document.getElementById("frame").src = "https://www.theworldcounts.com/embed/challenges/23?background_color=transparent&color=white&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=20"
-};
+}
 
 $consumption.onclick =  () =>
 {
@@ -25,7 +25,7 @@ $consumption.onclick =  () =>
     $people.style.backgroundColor = "transparent";
     document.getElementById("save").innerHTML = "do your bit! shop only what you need,eat only what you need and always save the left overs.";
     document.getElementById("frame").src = "https://www.theworldcounts.com/embed/challenges/107?background_color=transparent&color=white&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=20";
-};
+}
 
 $resources.onclick =  () =>
 {
@@ -37,7 +37,7 @@ $resources.onclick =  () =>
     $people.style.backgroundColor = "transparent";
     document.getElementById("save").innerHTML = "do your bit! avoid all things plastic. believe in reduce, reuse and recycle";
     document.getElementById("frame").src = "https://www.theworldcounts.com/embed/challenges/5?background_color=transparent&color=white&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=20";
-};
+}
 
 $people.onclick =  () =>
 {
@@ -49,4 +49,4 @@ $people.onclick =  () =>
     $climate.style.backgroundColor = "transparent";
     document.getElementById("save").innerHTML = "do your bit! never waste food. rather offer it to people or animals who are in need.";
     document.getElementById("frame").src = "https://www.theworldcounts.com/embed/challenges/2?background_color=transparent&color=white&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=20";
-};
+}
